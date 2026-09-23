@@ -1,0 +1,48 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch a random quote
+        id: quote
+        run: |
+          RESPONSE=$(curl -s https://api.quotable.io/random?tags=technology)
+          TEXT=$(echo "$RESPONSE" | jq -r '.content')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.author')
+          echo "text=$TEXT" >> "$GITHUB_OUTPUT"
+          echo "author=$AUTHOR" >> "$GITHUB_OUTPUT"
+
+      - name: Update README between markers
+        run: |
+          python3 - << 'PYEOF'
+          import re
+          with open("README.md") as f:
+              content = f.read()
+          new_block = '> "${{ steps.quote.outputs.text }}" — ${{ steps.quote.outputs.author }}'
+          content = re.sub(
+              r"<!-- QUOTE_START -->.*<!-- QUOTE_END -->",
+              f"<!-- QUOTE_START -->\n{new_block}\n<!-- QUOTE_END -->",
+              content,
+              flags=re.DOTALL
+          )
+          with open("README.md", "w") as f:
+              f.write(content)
+          PYEOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update daily quote"
+          git push
