@@ -13,12 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch a random quote
+      -  name: Fetch a random quote
         id: quote
         run: |
-          RESPONSE=$(curl -s https://api.quotable.io/random?tags=technology)
-          TEXT=$(echo "$RESPONSE" | jq -r '.content')
-          AUTHOR=$(echo "$RESPONSE" | jq -r '.author')
+          RESPONSE=$(curl -sf https://zenquotes.io/api/random)
+          TEXT=$(echo "$RESPONSE" | jq -r '.[0].q')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
           echo "text=$TEXT" >> "$GITHUB_OUTPUT"
           echo "author=$AUTHOR" >> "$GITHUB_OUTPUT"
 
@@ -32,7 +32,7 @@ jobs:
           content = re.sub(
               r"<!-- QUOTE_START -->.*<!-- QUOTE_END -->",
               f"<!-- QUOTE_START -->\n{new_block}\n<!-- QUOTE_END -->",
-              content,
+              content
               flags=re.DOTALL
           )
           with open("README.md", "w") as f:
