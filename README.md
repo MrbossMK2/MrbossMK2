@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt." — Honore de Balzac
+> "Waste not fresh tears over old griefs." — Euripides
 <!-- QUOTE_END -->
