@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Waste not fresh tears over old griefs." — Euripides
+> "There are few reasons for telling the truth, but for lying the number is infinite." — Carlos Ruiz Zafon
 <!-- QUOTE_END -->
