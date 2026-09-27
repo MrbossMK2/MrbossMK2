@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "There are few reasons for telling the truth, but for lying the number is infinite." — Carlos Ruiz Zafon
+> "Life is essentially an endless series of problems. The solution to one problem is merely the creation of another." — Mark Manson
 <!-- QUOTE_END -->
