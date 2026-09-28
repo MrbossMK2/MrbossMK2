@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Life is essentially an endless series of problems. The solution to one problem is merely the creation of another." — Mark Manson
+> "Change your thoughts and you change your world." — Norman Vincent Peale
 <!-- QUOTE_END -->
