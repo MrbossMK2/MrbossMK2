@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Change your thoughts and you change your world." — Norman Vincent Peale
+> "Life is a journey, not a destination." — Dan Millman
 <!-- QUOTE_END -->
