@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Life is a journey, not a destination." — Dan Millman
+> "To succeed takes more than the desire to win. It also takes the acceptance that we could fail." — Simon Sinek
 <!-- QUOTE_END -->
