@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "To succeed takes more than the desire to win. It also takes the acceptance that we could fail." — Simon Sinek
+> "An intelligence test sometimes shows a man how smart he would have been not to have taken it." — Laurence J. Peter
 <!-- QUOTE_END -->
