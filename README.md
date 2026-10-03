@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "An intelligence test sometimes shows a man how smart he would have been not to have taken it." — Laurence J. Peter
+> "The key to immortality is first living a life worth remembering." — Bruce Lee
 <!-- QUOTE_END -->
