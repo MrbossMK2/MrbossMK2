@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The key to immortality is first living a life worth remembering." — Bruce Lee
+> "Never put off to tomorrow what you can do to-day." — Thomas Jefferson
 <!-- QUOTE_END -->
