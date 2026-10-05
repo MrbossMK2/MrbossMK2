@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Never put off to tomorrow what you can do to-day." — Thomas Jefferson
+> "To lead an orchestra, you must turn your back on the crowd." — Aristotle
 <!-- QUOTE_END -->
