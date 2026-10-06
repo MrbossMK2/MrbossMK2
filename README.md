@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "To lead an orchestra, you must turn your back on the crowd." — Aristotle
+> "The degree of responsibility you take for your life determines how much change you can create in it." — Celestine Chua
 <!-- QUOTE_END -->
