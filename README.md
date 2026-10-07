@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The degree of responsibility you take for your life determines how much change you can create in it." — Celestine Chua
+> "Let us always meet each other with smile, for the smile is the beginning of love." — Mother Teresa
 <!-- QUOTE_END -->
