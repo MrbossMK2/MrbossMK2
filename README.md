@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Public opinion is the worst of all opinions." — Nicolas Chamfort
+> "There are two things a person should never be angry at, what they can help, and what they cannot." — Plato
 <!-- QUOTE_END -->
