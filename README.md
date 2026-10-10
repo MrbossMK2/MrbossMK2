@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "There are two things a person should never be angry at, what they can help, and what they cannot." — Plato
+> "The dream is free, but the hustle is sold separately." — Steve Harvey
 <!-- QUOTE_END -->
