@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The dream is free, but the hustle is sold separately." — Steve Harvey
+> "Believe in one thing too much and you have no room for new ideas." — Ray Bradbury
 <!-- QUOTE_END -->
