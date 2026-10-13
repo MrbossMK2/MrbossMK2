@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Believe in one thing too much and you have no room for new ideas." — Ray Bradbury
+> "Success is getting what you want, happiness is wanting what you get." — W.P. Kinsella
 <!-- QUOTE_END -->
