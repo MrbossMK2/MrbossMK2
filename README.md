@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Success is getting what you want, happiness is wanting what you get." — W.P. Kinsella
+> "Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you." — Norman Vincent Peale
 <!-- QUOTE_END -->
