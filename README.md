@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you." — Norman Vincent Peale
+> "A hopeless man is a very desperate and dangerous man, almost a dead man." — Robert F. Kennedy
 <!-- QUOTE_END -->
