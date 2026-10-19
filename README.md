@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "A hopeless man is a very desperate and dangerous man, almost a dead man." — Robert F. Kennedy
+> "Desire for the fruits of work must never be your motive in working." — Bhagavad Gita
 <!-- QUOTE_END -->
