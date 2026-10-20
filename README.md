@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Desire for the fruits of work must never be your motive in working." — Bhagavad Gita
+> "It is not how much we have, but how much we enjoy, that makes happiness." — Charles Spurgeon
 <!-- QUOTE_END -->
