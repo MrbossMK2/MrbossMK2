@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "It is not how much we have, but how much we enjoy, that makes happiness." — Charles Spurgeon
+> "Few things are more deceptive than memories." — Carlos Ruiz Zafon
 <!-- QUOTE_END -->
