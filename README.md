@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Few things are more deceptive than memories." — Carlos Ruiz Zafon
+> "Do not believe that you will reach your destination without leaving the shore." — Chinese Proverb
 <!-- QUOTE_END -->
