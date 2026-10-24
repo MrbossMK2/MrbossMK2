@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Do not believe that you will reach your destination without leaving the shore." — Chinese Proverb
+> "Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying." — Ming-Dao Deng
 <!-- QUOTE_END -->
