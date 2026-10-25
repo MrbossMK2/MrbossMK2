@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying." — Ming-Dao Deng
+> "Only I can change my life. No one can do it for me." — Carol Burnett
 <!-- QUOTE_END -->
