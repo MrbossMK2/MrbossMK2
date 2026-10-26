@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Only I can change my life. No one can do it for me." — Carol Burnett
+> "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." — Sigmund Freud
 <!-- QUOTE_END -->
