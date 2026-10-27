@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways." — Sigmund Freud
+> "Your setback is just a setup for a comeback." — Steve Harvey
 <!-- QUOTE_END -->
