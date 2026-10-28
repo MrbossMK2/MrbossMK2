@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Your setback is just a setup for a comeback." — Steve Harvey
+> "Make your life a mission - not an intermission." — Unknown
 <!-- QUOTE_END -->
