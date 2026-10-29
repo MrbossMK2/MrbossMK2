@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Make your life a mission - not an intermission." — Unknown
+> "The golden opportunity you are seeking is within yourself." — Mary Engelbreit
 <!-- QUOTE_END -->
