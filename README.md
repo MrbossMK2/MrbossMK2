@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The golden opportunity you are seeking is within yourself." — Mary Engelbreit
+> "A creative man is motivated by the desire to achieve, not by the desire to beat others." — Ayn Rand
 <!-- QUOTE_END -->
