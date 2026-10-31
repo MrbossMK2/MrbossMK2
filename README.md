@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "A creative man is motivated by the desire to achieve, not by the desire to beat others." — Ayn Rand
+> "Do not go where the path may lead, go instead where there is no path and leave a trail." — Ralph Waldo Emerson
 <!-- QUOTE_END -->
