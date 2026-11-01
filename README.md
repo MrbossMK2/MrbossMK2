@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Do not go where the path may lead, go instead where there is no path and leave a trail." — Ralph Waldo Emerson
+> "You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." — James Allen
 <!-- QUOTE_END -->
