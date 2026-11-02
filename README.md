@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." — James Allen
+> "It is during our darkest moments that we must focus to see the light." — Aristotle
 <!-- QUOTE_END -->
