@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "It is during our darkest moments that we must focus to see the light." — Aristotle
+> "If anything is worth doing, do it with all your heart." — Buddha
 <!-- QUOTE_END -->
