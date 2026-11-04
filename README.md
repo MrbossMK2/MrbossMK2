@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "If anything is worth doing, do it with all your heart." — Buddha
+> "The purpose of life is the life of purpose." — Robin Sharma
 <!-- QUOTE_END -->
