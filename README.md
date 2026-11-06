@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The purpose of life is the life of purpose." — Robin Sharma
+> "Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death." — Socrates
 <!-- QUOTE_END -->
