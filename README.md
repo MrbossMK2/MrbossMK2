@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding." — John D. Rockefeller
+> "In order to be walked over, you have to be lying down." — Celestine Chua
 <!-- QUOTE_END -->
