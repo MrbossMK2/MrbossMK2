@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The important thing is not to stop questioning. Curiosity has its own reason for existing." — Albert Einstein
+> "The more acquaintances you have, the less you know them." — Chinese Proverb
 <!-- QUOTE_END -->
