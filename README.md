@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The more acquaintances you have, the less you know them." — Chinese Proverb
+> "When you reach the end of your rope, tie a knot in it and hang on." — Franklin D. Roosevelt
 <!-- QUOTE_END -->
