@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "When you reach the end of your rope, tie a knot in it and hang on." — Franklin D. Roosevelt
+> "Little minds have little worries, big minds have no time for worries." — Ralph Waldo Emerson
 <!-- QUOTE_END -->
