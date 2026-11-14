@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Little minds have little worries, big minds have no time for worries." — Ralph Waldo Emerson
+> "What are we doing here, that is the question." — Samuel Beckett
 <!-- QUOTE_END -->
