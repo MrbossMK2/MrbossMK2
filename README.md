@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "What are we doing here, that is the question." — Samuel Beckett
+> "Live your life and forget your age." — Norman Vincent Peale
 <!-- QUOTE_END -->
