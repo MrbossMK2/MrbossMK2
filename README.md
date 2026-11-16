@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Live your life and forget your age." — Norman Vincent Peale
+> "Convinced myself, I seek not to convince." — Edgar Allan Poe
 <!-- QUOTE_END -->
