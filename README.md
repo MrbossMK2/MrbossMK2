@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Convinced myself, I seek not to convince." — Edgar Allan Poe
+> "Most of us will do anything to avoid facing ourselves." — Lolly Daskal
 <!-- QUOTE_END -->
