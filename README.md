@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Most of us will do anything to avoid facing ourselves." — Lolly Daskal
+> "Success is not how high you have climbed, but how you make a positive difference to the world." — Roy T. Bennett
 <!-- QUOTE_END -->
