@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Success is not how high you have climbed, but how you make a positive difference to the world." — Roy T. Bennett
+> "The educated differ from the uneducated as much as the living differ from the dead." — Aristotle
 <!-- QUOTE_END -->
