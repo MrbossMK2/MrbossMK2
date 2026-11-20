@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The educated differ from the uneducated as much as the living differ from the dead." — Aristotle
+> "Life is about not knowing and then doing something anyway." — Mark Manson
 <!-- QUOTE_END -->
