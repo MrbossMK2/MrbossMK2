@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Life is about not knowing and then doing something anyway." — Mark Manson
+> "When you are tough on yourself, life is going to be infinitely easier on you." — Zig Ziglar
 <!-- QUOTE_END -->
