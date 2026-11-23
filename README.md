@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "When you are tough on yourself, life is going to be infinitely easier on you." — Zig Ziglar
+> "The privilege of a lifetime is to become who you truly are." — Carl Jung
 <!-- QUOTE_END -->
