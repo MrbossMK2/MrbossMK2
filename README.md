@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The privilege of a lifetime is to become who you truly are." — Carl Jung
+> "The key to immortality is first living a life worth remembering." — Bruce Lee
 <!-- QUOTE_END -->
