@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The key to immortality is first living a life worth remembering." — Bruce Lee
+> "You use a glass mirror to see your face; you use works of art to see your soul." — George Bernard Shaw
 <!-- QUOTE_END -->
