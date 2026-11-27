@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "You use a glass mirror to see your face; you use works of art to see your soul." — George Bernard Shaw
+> "We need a backbone, not a wishbone." — Joyce Meyer
 <!-- QUOTE_END -->
