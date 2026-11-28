@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "We need a backbone, not a wishbone." — Joyce Meyer
+> "There is a big difference between being centered and being self-centered." — Lolly Daskal
 <!-- QUOTE_END -->
